@@ -1,16 +1,16 @@
-all: cv.html cv.pdf cv.docx cv.txt
+all: "AndyHaydenCV.html" "AndyHaydenCV.pdf" "AndyHaydenCV.docx" "AndyHaydenCV.txt"
 
-cv.html: README.md style.css
-		pandoc --standalone -c style.css --from markdown --to html -o cv.html README.md
+"AndyHaydenCV.html": README.md style.css
+		pandoc --standalone -c style.css --from markdown --to html -o "AndyHaydenCV.html" README.md
 
-cv.pdf: cv.html
-		wkhtmltopdf cv.html cv.pdf
+"AndyHaydenCV.pdf": "AndyHaydenCV.html"
+		wkhtmltopdf "AndyHaydenCV.html" "AndyHaydenCV.pdf"
 
-cv.docx: README.md
-		pandoc --from markdown --to docx -o cv.docx README.md
+"AndyHaydenCV.docx": README.md
+		pandoc --from markdown --to docx -o "AndyHaydenCV.docx" README.md
 
-cv.txt: README.md
-		pandoc --standalone --smart --from markdown --to plain -o cv.txt README.md
+"AndyHaydenCV.txt": README.md
+		pandoc --standalone --smart --from markdown --to plain -o "AndyHaydenCV.txt" README.md
 
 clean:
 		rm -f *.html *.pdf *.docx *.txt

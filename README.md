@@ -3,7 +3,7 @@ Andy Hayden
 
 ----
 
-> Maths graduate, pydata/pandas core developer, and kayak coach.
+> Pydata/pandas core developer, maths graduate, and kayak coach.
 
 > Passion for finding elegant solutions to complex problems, timed and data-driven development.  
 
@@ -14,9 +14,8 @@ Experience
 
 Feb 2013 – present
 :   *Co-founder, Awesome Decision (prelaunch).*  
-    - Designed and implemented machine learning algorithms for decision-making.  
-    - Using python, ruby-on-rails, angular, git, heroku, redis, and postgres.  
-    - Manage git repository workflow.  
+    - Designed and implemented machine learning in decision flows.  
+    - Back and front-end development using ruby-on-rails, angular, heroku, redis, and postgres.  
 
 Feb 2012 – Jan 2013
 :   *Lead analyst and technical manager, Pierce Protocols.*  
@@ -25,7 +24,7 @@ Feb 2012 – Jan 2013
     - Responsible for refactoring a client's Filemaker database (connecting via ODBC to external data sources
     (MySQL databases) for live data), fixing bugs in the legacy codebase, writing Filemaker scripts to perform
     complex queries and create dynamic reports, and creating documentation.  
-    - Website technical manager of a team of six website administrators for client’s site. Introduced and pushed the
+    - Website technical manager of a team of six website curators for client’s site. Introduced and pushed the
     use of Trello, for bug tracking and managing developer work-flow, and integration testing. Oversaw regular
     QA-ing of the site and led team meetings to decide direction for future development.  
 
@@ -91,7 +90,7 @@ Voluntary
 ---------
 
 2012
-:   [Udacity](https://www.udacity.com/).
+:   [Udacity](https://www.udacity.com/).  
     Working with other students to learn and develop in Python, "got the tshirt" (for my help)!
 
 2008 – 2010
