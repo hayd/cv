@@ -3,7 +3,7 @@ Andy Hayden
 
 ----
 
-> Pydata/pandas core developer, maths graduate, and kayak coach.
+> Pandas core developer, maths graduate, and kayak coach.
 
 > Passion for finding elegant solutions to complex problems, timed and data-driven development.  
 
@@ -12,14 +12,20 @@ Andy Hayden
 Experience
 ----------
 
-Feb 2013 – present
-:   *Co-founder, Awesome Decision (prelaunch).*  
+Apr 2014 - Aug 2014
+:   *Technical Consultant, Freelance.*  
+    - Teaching companies how to leverage python for data science.  
+    - Run workshops on using and migratating to git/github, and leveraging continuous testing and deployment.
+    *[Example git slides](http://slides.com/hayd/git)*.
+
+Feb 2013 – 2014
+:   *Software Engineer and Data Scientist, Awesome Decision.*  
     - Designed and implemented machine learning in decision flows.  
-    - Back and front-end development using ruby-on-rails, angular, heroku, redis, and postgres.  
+    - Back and front-end development using ruby-on-rails, angular, heroku, redis, and postgres. 
 
 Feb 2012 – Jan 2013
 :   *Lead analyst and technical manager, Pierce Protocols.*  
-    - Using Python, its pandas library, and machine learning to deliver data analysis for art market. Developed this
+    - Using python, its pandas library, and machine learning to deliver data analysis for art market. Developed this
     into an application for dynamic data analysis and visualisation.  
     - Responsible for refactoring a client's Filemaker database (connecting via ODBC to external data sources
     (MySQL databases) for live data), fixing bugs in the legacy codebase, writing Filemaker scripts to perform
@@ -49,13 +55,22 @@ July 2006 – Oct 2006
     - Responsible for balancing several hundred projects’ accounts in the Southeast region following migration to
     Oracle Projects. By the end of my placement this region was completely balanced.  
 
-Open Source Contributions
--------------------------
+Open Source Projects
+--------------------
 
 Feb 2013 – present
 :   *Pandas core team / maintainer, [Pydata](https://github.com/pydata?tab=members).*  
     - Contribute code for features, bug-fixes, review pull-requests and triage bugs.  
-    - Use test driven development ([travis-ci](https://travis-ci.org/)) and performance testing against git ([vbench](https://github.com/pydata/vbench)).  
+    - Use test driven development ([travis-ci](https://travis-ci.org/)) and performance testing against git ([vbench](https://github.com/pydata/vbench)).
+
+Mar 2014 – present
+:   *Author, [pep8radius](https://github.com/hayd/pep8radius).*  
+    - PEP8 clean only the parts of the files which you have touched since the last commit, previous commit or branch.  
+    - Downloaded over 5k times.
+
+May 2013 - present
+:   *Author, [pyfaker](https://github.com/hayd/pyfaker).*  
+    - A library for generating pseudo-random (but "realistic") data in python. A port of the faker gem to python (making use of its rich locale support) in fewer than 100 lines of code.
 
 Education
 ---------
@@ -89,9 +104,9 @@ Feb 2012 – present day
 Voluntary
 ---------
 
-2012
+2012 -
 :   [Udacity](https://www.udacity.com/).  
-    Working with other students to learn and develop in Python, "got the tshirt" (for my help)!
+    Working with other students to learn and develop in python, "got the tshirt" (for my help)!
 
 2008 – 2010
 :   *Junior Geometry Seminar Organiser, Durham University.*  
