@@ -29,7 +29,7 @@ Feb 2012 – Jan 2013
     into an application for dynamic data analysis and visualisation.  
     - Responsible for refactoring a client's Filemaker database (connecting via ODBC to external data sources
     (MySQL databases) for live data), fixing bugs in the legacy codebase, writing Filemaker scripts to perform
-    complex queries and create dynamic reports, and creating documentation.  
+    complex queries and create dynamic reports.  
     - Website technical manager of a team of six website curators for client’s site. Introduced and pushed the
     use of Trello, for bug tracking and managing developer work-flow, and integration testing. Oversaw regular
     QA-ing of the site and led team meetings to decide direction for future development.  
@@ -38,7 +38,7 @@ Oct 2008 – Sep 2011
 :   *Mathematics researcher, tutor and exam supervisor, [Durham University](https://www.dur.ac.uk/mathematical.sciences/).*    
     - Researched billiards, hyperbolic geometry and Teichmueller theory.  
     - Led classes of 20+ university students. Responsible for the construction and delivery of sessions, marking
-    and giving feedback on assessed work (providing 1-1 support), and discussing weekly tasks.  
+    and giving feedback on assessed work (providing 1-1 support).  
     - Accountable for the setting up and smooth running of undergraduate examinations. Took a supervisory role
     over multiple examinations and issue resolution.  
 
@@ -110,12 +110,7 @@ Voluntary
 
 2008 – 2010
 :   *Junior Geometry Seminar Organiser, Durham University.*  
-    Founded seminars, organised speakers, booked rooms, directed discussion and published notes.
-
-2008 – 2009
-:   *IT Officer, Durham University Canoe Club.*  
-    Maintained the website, oversaw communications.  
-    Instigated and led a progression programme, created a development path and mentoring scheme for coaches.
+    Founded seminar, organised speakers, logistics, and directed discussion.
 
 2008 – 2013
 :   *Kayak Coach, various youth groups*
