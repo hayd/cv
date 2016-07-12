@@ -3,130 +3,156 @@ Andy Hayden
 
 ----
 
-> Pandas core developer, maths graduate, and kayak coach.
+> Pandas core developer, maths graduate and kayak coach.
 
-> Passion for finding elegant solutions to complex problems, timed and data-driven development.  
+> Passion for finding simple and elegant solutions to complex problems,  
+  and data-driven development.
 
-----
+---
 
 Experience
 ----------
 
-Apr 2014 - Aug 2014
-:   *Technical Consultant, Freelance.*  
-    - Teaching companies how to leverage python for data science.  
-    - Run workshops on using and migratating to git/github, and leveraging continuous testing and deployment.
-    *[Example git slides](http://slides.com/hayd/git)*.
 
-Feb 2013 – 2014
+2015 –
+:   *Senior Software Engineer, [Altos Research](https://altosresearch.com/).*  
+    - Full-stack: Scala/Play, Angular, Postgres, NGINX.  
+    - Responsible for re-vamped web product: white-labelled real estate market reports.  
+    - Designed and implemented the payment system (using Stripe API).  
+    - Devops, built out monitoring and alarms (e.g. SNS-Slack integration).  
+    - Automating weekly captures and simplified monitoring of processes.  
+    - Simplifying/containerizing majority of stack from Opsworks to Elastic Beanstalk.  
+    - Extensive use of AWS.
+
+
+2014 – <br /> 2015
+:   *Technical Consultant, Freelance.*  
+    - Contract software development (specializing in building data tools).  
+    - Teaching companies how to leverage python for data science.  
+    - Led workshops on git migration/best practice, and leveraging continuous testing and deployment.
+    *[Example git slides](http://slides.com/hayd/git)*.  
+
+
+2013 – <br /> 2014
 :   *Software Engineer and Data Scientist, Awesome Decision.*  
     - Designed and implemented machine learning in decision flows.  
     - Back and front-end development using ruby-on-rails, angular, heroku, redis, and postgres. 
 
-Feb 2012 – Jan 2013
-:   *Lead analyst and technical manager, Pierce Protocols.*  
-    - Using python, its pandas library, and machine learning to deliver data analysis for art market. Developed this
-    into an application for dynamic data analysis and visualisation.  
-    - Responsible for refactoring a client's Filemaker database (connecting via ODBC to external data sources
-    (MySQL databases) for live data), fixing bugs in the legacy codebase, writing Filemaker scripts to perform
-    complex queries and create dynamic reports.  
-    - Website technical manager of a team of six website curators for client’s site. Introduced and pushed the
-    use of Trello, for bug tracking and managing developer work-flow, and integration testing. Oversaw regular
-    QA-ing of the site and led team meetings to decide direction for future development.  
 
-Oct 2008 – Sep 2011
-:   *Mathematics researcher, tutor and exam supervisor, [Durham University](https://www.dur.ac.uk/mathematical.sciences/).*    
+2012 – <br /> 2013
+:   *Lead Analyst and Technical Manager, Pierce Protocols.*  
+    - Using python (pandas, numpy, scikit-learn) for data analysis of the art market.  
+    - Developed application for dynamic aggregations, visualisations, and estimations.  
+    - Responsible for refactoring and extending internal data tool/database.  
+    - Website technical manager of a team of six website curators for client’s main site.  
+    - Introduced and pushed the use of bug tracking software and integration testing.  
+
+
+2008 – <br /> 2011
+:   *Mathematics Researcher / Tutor, [Durham University](https://www.dur.ac.uk/mathematical.sciences/).*    
     - Researched billiards, hyperbolic geometry and Teichmueller theory.  
-    - Led classes of 20+ university students. Responsible for the construction and delivery of sessions, marking
-    and giving feedback on assessed work (providing 1-1 support).  
-    - Accountable for the setting up and smooth running of undergraduate examinations. Took a supervisory role
-    over multiple examinations and issue resolution.  
+    - Led classes. Responsible for the construction and delivery of sessions.  
 
-July 2007 – Oct 2007
+
+2007
 :   *Analyst (summer placement), [Network Rail](http://www.networkrail.co.uk/).*  
-    - Liaised with admin staff and accountants to generate detailed reports for Network Rail directors.  
-    - Recommended methods to control specific types of expenses, and engaged with senior managers and
-    administration to ensure implementation.  
+    - Recommended methods to control specific types of expenses.
 
-July 2006 – Oct 2006
-:   *Assistant project accountant (summer placement), [Network Rail](http://www.networkrail.co.uk/).*  
-    - Extracted data from databases to compile reports. Produced and presented the monthly accounts to
-    executives both for the Southeast and across the UK.  
-    - Responsible for balancing several hundred projects’ accounts in the Southeast region following migration to
-    Oracle Projects. By the end of my placement this region was completely balanced.  
+
+2006
+:   *Project Accountant (summer placement), [Network Rail](http://www.networkrail.co.uk/).*  
+    - Automated database extraction to compile reports.  
+    - Responsible for balancing ~300 projects’ accounts in the Southeast region following migration to
+    Oracle Projects. By end of placement this region was completely balanced.  
+
 
 Open Source Projects
 --------------------
 
-Feb 2013 – present
-:   *Pandas core team / maintainer, [Pydata](https://github.com/pydata?tab=members).*  
-    - Contribute code for features, bug-fixes, review pull-requests and triage bugs.  
-    - Use test driven development ([travis-ci](https://travis-ci.org/)) and performance testing against git ([vbench](https://github.com/pydata/vbench)).
 
-Mar 2014 – present
-:   *Author, [pep8radius](https://github.com/hayd/pep8radius).*  
-    - PEP8 clean only the parts of the files which you have touched since the last commit, previous commit or branch.  
-    - Downloaded over 5k times.
+2013 – 
+:   *Various, including:*  
+    - [Pandas](http://pandas.pydata.org/) core team.  
+    - [Julia-lang](http://julialang.org/) core team.  
+    - Authored libraries including [ctox](https://github.com/hayd/ctox), 
+    [pep8radius](https://github.com/hayd/pep8radius) and
+    [pyfaker](https://github.com/hayd/pyfaker).
 
-May 2013 - present
-:   *Author, [pyfaker](https://github.com/hayd/pyfaker).*  
-    - A library for generating pseudo-random (but "realistic") data in python. A port of the faker gem to python (making use of its rich locale support) in fewer than 100 lines of code.
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 Education
 ---------
 
-Oct 2003 – June 2007
-:   *Master of Mathematics, First class with honours, [University of Warwick](http://www2.warwick.ac.uk/fac/sci/maths/).*  
-    Thesis on “Lattice Stabilisers & Closed Orbits For SL(2, R) Action On Translation Surfaces”.  
 
-Oct 2001 – June 2003
+2003 – <br /> 2007
+:   *Master of Mathematics, First class with honours, [University of Warwick](http://www2.warwick.ac.uk/fac/sci/maths/).*  
+    Thesis: *Lattice Stabilisers & Closed Orbits For SL(2, R) Action On Translation Surfaces.*  
+
+
+2001 – <br /> 2003
 :   *A-levels. [Esher College](http://www.esher.ac.uk).*  
-    A in Mathematics, Further Mathematics, Physics. B in Chemistry.
+    Mathematics, Further Mathematics, Physics, and Chemistry.
+
 
 Self Learning
 -------------
 
-May 2012 – present day
+
+2012 –
 :   *StackOverflow.*  
-    [Top pandas answerer](http://stackoverflow.com/tags/pandas/topusers), with over 1000 upvotes on answers.  
-    Over 800 answers, > 20k reputation, [sportsmanship](http://stackoverflow.com/help/badges/805/sportsmanship?userid=1240268) and active in moderating the site.
+    [Top pandas answerer](http://stackoverflow.com/tags/pandas/topusers). Over 1k answers and 5k upvotes.  
+    80k reputation, [sportsmanship](http://stackoverflow.com/help/badges/805/sportsmanship?userid=1240268) and active in moderating the site.
 
-Feb 2012 – present day
-:   *[Udacity](https://www.udacity.com/).*
 
-    CS212 Design of Computer Programs. Clarity, generality, decomposition and composability.  
-    CS258 Software Testing. Unit and integration, black-box, coverage, random and fuzz testing.  
-    CS262 Programming Languages. Regex, lexing and parsing, and interpreting.  
-    CS253 Web Application Engineering. HTTP, cookies, hashing, scaling and caching (GAE).  
-    CS373 Programming a Robotic Car. Probabilistic inference, planning, search, localization, tracking and control.  
+2015 –
+:    *[Coursea](https://www.coursera.org).*  
+    - Functional Programming Principles in Scala.  
+    - Functional Program Design in Scala.  
+
+2012 – <br /> 2014
+:   *[Udacity](https://www.udacity.com/).*  
+    - Design of Computer Programs.  
+    - Software Testing.  
+    - Programming Languages.  
+    - Web Application Engineering.  
+    - Programming a Robotic Car.  
 
 
 Voluntary
 ---------
 
-2012 -
+
+2015 –
+:    Speaker at Python and Julia Meetups to audiences of up to 300 e.g. [BayPIGgies](http://www.meetup.com/silicon-valley-python/events/145170122/).
+
+
+2012 – 2014
 :   [Udacity](https://www.udacity.com/).  
-    Working with other students to learn and develop in python, "got the tshirt" (for my help)!
+    Working with other students to learn python, "got the tshirt" (for my help)!
+
 
 2008 – 2010
 :   *Junior Geometry Seminar Organiser, Durham University.*  
     Founded seminar, organised speakers, logistics, and directed discussion.
 
-2008 – 2013
-:   *Kayak Coach, various youth groups*
+
+2008 –
+:   *Kayak Coach, various groups.*
+
 
 2008 – 2011
 :   *Mountain Rescue Canoe Team Member, Teesdale & Weardale Mountain Rescue.*
 
-2005 – 2007
-:   *Tour Secretary, [Warwick University Canoe Club](http://www.warwickcanoe.co.uk/).*
-
-2000 – 2008
-:   *Assistant Scout Leader, 1st Hinchley Wood Scouts.*
-
 
 Other qualifications and awards
 -------------------------------
+
 
 2012
 :   Five Star White Water Leader (Kayak), [British Canoe Union](http://www.bcu.org.uk/).
@@ -153,9 +179,11 @@ Other qualifications and awards
 Activities and interests
 ------------------------
 
-Coding, Climbing, Cycling, Kayaking, Octopush, Running, StackOverflow, Ubuntu, Woodcarving, Yoga.
+Climbing, Cycling, Hiking, Kayaking, Octopush, Running, Swimming, Woodcarving, Yoga.
+
 
 ----
+
 
 > <andyhayden1@gmail.com>  
 > 415-595-8518 (c)  
