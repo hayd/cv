@@ -1,173 +1,80 @@
-
-
-ANDY HAYDEN
-
+Andy Hayden
 
 ------------------------------------------------------------------------
 
-  Pandas core developer, maths graduate and kayak coach.
-
-  Passion for finding simple and elegant solutions to complex problems,
-  and data-driven development.
+  Passion for finding simple and elegant solutions to complex problems.
 
 ------------------------------------------------------------------------
-
 
 Experience
 
-2015 –
-    _Senior Software Engineer, Altos Research._
-    - Full-stack: Scala/Play, Angular, Postgres, NGINX.
-    - Responsible for re-vamped web product: white-labelled real estate
-    market reports.
-    - Designed and implemented the payment system (using Stripe API).
-    - Devops, built out monitoring and alarms (e.g. SNS-Slack
-    integration).
-    - Automating weekly captures and simplified monitoring of processes.
-    - Simplifying/containerizing majority of stack from Opsworks to
+2017 -
+    Chief Technology Officer, Altos Research.
+
+-   Oversee infrastructure and all product development.
+-   Ensure software engineers and their teams can iterate effectively.
+
+2016 - 2017
+    Principal Software Engineer, Altos Research.
+
+-   Automating weekly processes, simplified monitoring, using ASG and
+    SQS.
+-   Simplifying/containerizing majority of stack from Opsworks to
     Elastic Beanstalk.
-    - Extensive use of AWS.
 
-2014 –  2015
-    _Technical Consultant, Freelance._
-    - Contract software development (specializing in building data
-    tools).
-    - Teaching companies how to leverage python for data science.
-    - Led workshops on git migration/best practice, and leveraging
-    continuous testing and deployment. _Example git slides_.
+2015 – 2016
+    Senior Software Engineer, Altos Research.
 
-2013 –  2014
-    _Software Engineer and Data Scientist, Awesome Decision._
-    - Designed and implemented machine learning in decision flows.
-    - Back and front-end development using ruby-on-rails, angular,
-    heroku, redis, and postgres.
+-   Full-stack: Scala/Play, Angular, Postgres, Nginx.
+-   Responsible for web product: white-labelled real estate market
+    reports.
+-   Designed and implemented the payment system using Stripe.
 
-2012 –  2013
-    _Lead Analyst and Technical Manager, Pierce Protocols._
-    - Using python (pandas, numpy, scikit-learn) for data analysis of
+2014 – 2015
+    Technical Consultant, Freelance (USA).
+
+-   Contract software development (specializing in building data tools).
+-   Teaching companies how to leverage python for data science.
+-   Led workshops on git migration/best practice, and leveraging
+    continuous testing and deployment.
+
+2013 – 2014
+    Software Engineer and Data Scientist, Awesome Decision.
+
+-   Designed and implemented machine learning in decision flows.
+-   Back and front-end development using ruby-on-rails, angular, heroku,
+    redis, and postgres.
+
+2012 – 2013
+    Lead Analyst and Technical Manager, Pierce Protocols.
+
+-   Using python - pandas, numpy, scikit-learn - for data analysis in
     the art market.
-    - Developed application for dynamic aggregations, visualisations,
-    and estimations.
-    - Responsible for refactoring and extending internal data
-    tool/database.
-    - Website technical manager of a team of six website curators for
-    client’s main site.
-    - Introduced and pushed the use of bug tracking software and
-    integration testing.
-
-2008 –  2011
-    _Mathematics Researcher / Tutor, Durham University._
-    - Researched billiards, hyperbolic geometry and Teichmueller theory.
-    - Led classes. Responsible for the construction and delivery
-    of sessions.
-
-2007
-    _Analyst (summer placement), Network Rail._
-    - Recommended methods to control specific types of expenses.
-
-2006
-    _Project Accountant (summer placement), Network Rail._
-    - Automated database extraction to compile reports.
-    - Responsible for balancing ~300 projects’ accounts in the Southeast
-    region following migration to Oracle Projects. By end of placement
-    this region was completely balanced.
-
-
-Open Source Projects
-
-2013 –
-    _Various, including:_
-    - Pandas core team.
-    - Julia-lang core team.
-    - Authored libraries including ctox, pep8radius and pyfaker.
-
 
 Education
 
-2003 –  2007
-    _Master of Mathematics, First class with honours, University of
-    Warwick._
-    Thesis: _Lattice Stabilisers & Closed Orbits For SL(2, R) Action On
-    Translation Surfaces._
+-   Master of Mathematics, First class with honours, University of
+    Warwick. Thesis: Lattice Stabilisers & Closed Orbits For SL(2, R)
+    Actions On Translation Surfaces.
 
-2001 –  2003
-    _A-levels. Esher College._
-    Mathematics, Further Mathematics, Physics, and Chemistry.
-
+-   A-levels, Mathematics, Further Mathematics, Physics, and Chemistry,
+    Esher College.
 
 Self Learning
 
-2012 –
-    _StackOverflow._
-    Top pandas answerer. Over 1k answers and 5k upvotes.
-    80k reputation, sportsmanship and active in moderating the site.
-
-2015 –
-    _Coursea._
-    - Functional Programming Principles in Scala.
-    - Functional Program Design in Scala.
-
-2012 –  2014
-    _Udacity._
-    - Design of Computer Programs.
-    - Software Testing.
-    - Programming Languages.
-    - Web Application Engineering.
-    - Programming a Robotic Car.
-
-
-Voluntary
-
-2015 –
-    Speaker at Python and Julia Meetups to audiences of up to 300 e.g.
-    BayPIGgies.
-
-2012 – 2014
-    Udacity.
-    Working with other students to learn python, “got the tshirt” (for
-    my help)!
-
-2008 – 2010
-    _Junior Geometry Seminar Organiser, Durham University._
-    Founded seminar, organised speakers, logistics, and
-    directed discussion.
-
-2008 –
-    _Kayak Coach, various groups._
-
-2008 – 2011
-    _Mountain Rescue Canoe Team Member, Teesdale & Weardale
-    Mountain Rescue._
-
+-   Stack Overflow: 300k+ reputation, legendary.
+-   Udacity: Design of Computer Programs, Programming a Robotic Car, Web
+    Application Engineering.
+-   Coursea: Functional Program Design in Scala.
+-   AWS: Solutions Architect Associate, Sysops Administrator Associate.
+-   Speaker: Python and Julia meetups to audiences of up to 300.
+-   Open source: previously pandas and julialang team member.
 
 Other qualifications and awards
 
-2012
-    Five Star White Water Leader (Kayak), British Canoe Union.
-
-2012
-    Coaching Processes, British Canoe Union.
-
-2011
-    John O’Groats to Land’s End (cycle), Macmillan Cancer Support.
-
-2010
-    Associate of the Higher Education Academy.
-
-2009
-    Casualty Care (First Aid), North-East Search & Rescue Association.
-
-2008
-    Level Three Kayak Coach, British Canoe Union.
-
-2002
-    Chief Scout Award, The Scout Association.
-
-
-Activities and interests
-
-Climbing, Cycling, Hiking, Kayaking, Octopush, Running, Swimming,
-Woodcarving, Yoga.
+-   Associate of the Higher Education Academy.
+-   Five Star White Water Leader (Kayak), British Canoe Union.
+-   Level Three Kayak Coach, British Canoe Union.
 
 ------------------------------------------------------------------------
 
